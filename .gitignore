@@ -1,0 +1,6 @@
+voicebank.db
+face_data/
+temp_listen.wav
+temp_voice.wav
+user_face.jpg
+__pycache__/
