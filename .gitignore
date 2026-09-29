@@ -1,0 +1,15 @@
+face_data/
+voice_data/
+tts_cache/
+voicebank.db
+__pycache__/
+*.pyc
+temp_login_*.jpg
+temp_withdraw_*.wav
+venv/
+.venv/
+.env
+user_face.jpg
+*.jpg
+*.wav
+tts_temp/
